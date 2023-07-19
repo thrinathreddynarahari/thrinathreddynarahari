@@ -2,9 +2,18 @@
 
 
 
-# 💫 About Me:
+<div style="display: flex;>
+  <div style="flex: 50%;>
+    # 💫 About Me:
 
-🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
+    🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
+  </div>
+   <div style="flex: 50%;>
+   <img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" >
+  </div>
+</div>
+
+
 
 # 💻 Tech Stack:
 
