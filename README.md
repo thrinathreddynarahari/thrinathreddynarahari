@@ -1,17 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif" width="30" height="30" style="margin-right: 10px;"> I'm Thrinath Narahari</h1> 
 
 
+# 💫 About Me:
 
-<div >
-    <div>
-    # 💫 About Me:
-    </div>
+🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
 
-    🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
-   <div
-   <img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" >
-  </div>
-</div>
+<img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" >
 
 
 
