@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif" width="30" height="30" style="margin-right: 10px;"> I'm <b>Thrinath Narahari</b></h1> 
+<h1 align="center">Hi, I'm <b>Thrinath Narahari</b></h1> 
 
 
 # 💫 About Me
