@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-<div>
+<div style="display:flex>
  <span>
 
 🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
