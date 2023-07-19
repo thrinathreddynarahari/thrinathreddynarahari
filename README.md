@@ -3,14 +3,10 @@
 
 # 💫 About Me:
 
-<div style="display: flex">
- <span style="width:50%">
-
 🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
-  
- </span>
+ 
 
- <span><img src="https://i.gifer.com/JXA0.gif" ></span>
+ <img src="https://i.gifer.com/JXA0.gif" >
 </div>
 
 
