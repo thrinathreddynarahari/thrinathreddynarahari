@@ -10,7 +10,7 @@
   
  </span>
 
- <span><img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" ></span>
+ <span><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" ></span>
 </div>
 
 
