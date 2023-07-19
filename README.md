@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 <div style="display: flex">
- <span>
+ <span style="max-width:30px">
 
 🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
   
