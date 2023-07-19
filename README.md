@@ -2,7 +2,7 @@
 
 
 
-<div style="display: flex;>
+<div >
     <div>
     # 💫 About Me:
     </div>
