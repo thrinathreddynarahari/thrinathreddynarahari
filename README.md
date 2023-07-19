@@ -1,4 +1,4 @@
-<h1 align="center">Hi <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/hjntJzbrVubhEfifkp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/satispay-hello-hand-satispayapp-hjntJzbrVubhEfifkp">via GIPHY</a></p>, I'm Thrinath Narahari</h1>
+<h1 align="center">Hib<a href="https://giphy.com/gifs/satispay-hello-hand-satispayapp-hjntJzbrVubhEfifkp">via GIPHY</a> I'm Thrinath Narahari</h1>
 
 
 
