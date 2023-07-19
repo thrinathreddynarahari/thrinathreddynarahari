@@ -6,7 +6,7 @@
 <div>
 🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
 
-<img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" >
+ <span><img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" ></span>
 </div>
 
 
