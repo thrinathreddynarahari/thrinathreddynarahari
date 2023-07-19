@@ -3,10 +3,12 @@
 
 
 <div style="display: flex;>
+    <div>
     # 💫 About Me:
+    </div>
 
     🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
-   <div style="flex: 50%;>
+   <div
    <img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" >
   </div>
 </div>
