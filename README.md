@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-<div style="width: 20%; float:left">
+<div style="width: 20; float:left">
    🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
 </div>
 
-<div style="width: 80%; float:right">
+<div style="width: 80; float:right">
    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height:20px>
 </div>
 
