@@ -3,6 +3,10 @@
 
 # 💫 About Me:
 
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="350" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+</a>
 <div style="display:grid">
    <div style="width: 20; float:left">
    🔭 Working with Cognine Technologies<br>🤝 Reach me thrinath.narahari@cognine.com<br>💬 Ask me about Angular, React, Vue, Node and Python
