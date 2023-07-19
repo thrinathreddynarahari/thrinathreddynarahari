@@ -1,4 +1,4 @@
-    <h1 align="center">Hi Alien, I'm Thrinath Narahari</h1>
+
 
     # 💫 About Me:
 
