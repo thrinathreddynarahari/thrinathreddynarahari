@@ -1,4 +1,4 @@
-<h1 align="center">Hib<a href="https://giphy.com/gifs/satispay-hello-hand-satispayapp-hjntJzbrVubhEfifkp">via GIPHY</a> I'm Thrinath Narahari</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif" width="30" height="30" style="margin-right: 10px;"> I'm Thrinath Narahari</h1> 
 
 
 
